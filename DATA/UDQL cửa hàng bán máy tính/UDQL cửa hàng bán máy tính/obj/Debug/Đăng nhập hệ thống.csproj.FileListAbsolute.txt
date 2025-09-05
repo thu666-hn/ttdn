@@ -1,0 +1,9 @@
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\bin\Debug\UDQL cửa hàng bán máy tính.exe.config
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\bin\Debug\UDQL cửa hàng bán máy tính.exe
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\bin\Debug\UDQL cửa hàng bán máy tính.pdb
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\Đăng nhập hệ thống.csprojResolveAssemblyReference.cache
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\UDQL_cửa_hàng_bán_máy_tính.dangnhap.resources
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\UDQL_cửa_hàng_bán_máy_tính.Properties.Resources.resources
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\Đăng nhập hệ thống.csproj.GenerateResource.Cache
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\UDQL cửa hàng bán máy tính.exe
+C:\TAM TẤU\DATA\UDQL cửa hàng bán máy tính\UDQL cửa hàng bán máy tính\obj\Debug\UDQL cửa hàng bán máy tính.pdb
